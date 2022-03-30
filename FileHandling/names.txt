@@ -1,0 +1,15 @@
+Name: Ivan Blay
+Telephone Number: +233 242759806
+Date of Birth: 08-05-2019
+
+Name: Irene Busah
+Telephone Number: +233 549185709
+Date of Birth: 05-05-2000
+
+Name: Nelson Nor
+Telephone Number: +233 241918971
+Date of Birth: 10-05-2001
+
+Name: Mary Mburu
+Telephone Number: +254 745 118142
+Date of Birth: 04-11-1998
